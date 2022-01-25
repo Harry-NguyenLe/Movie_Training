@@ -1,0 +1,6 @@
+module Pods_Movie_Training {
+  umbrella header "Pods-Movie_Training-umbrella.h"
+
+  export *
+  module * { export * }
+}

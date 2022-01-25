@@ -1,0 +1,6 @@
+framework module Pods_Movie_TrainingTests {
+  umbrella header "Pods-Movie_TrainingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
